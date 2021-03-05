@@ -1,4 +1,4 @@
-# purple-tech
+# EgideDark
 KDE Plasma Splash screen
 
 I have used the [lush-pop](https://github.com/VaughnValle/lush-pop) splash screen as base of this project. 
