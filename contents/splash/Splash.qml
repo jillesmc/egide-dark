@@ -22,7 +22,7 @@ import QtQuick.Window 2.2
 
 Rectangle {
     id: root
-    color: "#000000"
+    color: "#0a0a0a"
     property int stage
 
     onStageChanged: {
@@ -62,7 +62,7 @@ Rectangle {
  
         AnimatedImage { 
             id: face
-            source: "images/purple_small.gif"
+            source: "images/plasma_d.gif"
             paused: false 
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
@@ -99,7 +99,7 @@ Rectangle {
             }
             anchors.horizontalCenter: parent.horizontalCenter
             Text {
-                color: "#8257e6"
+                color: "#7f58bf"
                 // Work around Qt bug where NativeRendering breaks for non-integer scale factors
                 // https://bugreports.qt.io/browse/QTBUG-67007
                 renderType: Screen.devicePixelRatio % 1 !== 0 ? Text.QtRendering : Text.NativeRendering

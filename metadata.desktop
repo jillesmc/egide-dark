@@ -1,8 +1,8 @@
 [Desktop Entry]
-Comment=PurpleTech for Plasma KDE
+Comment=EgideDark for Plasma KDE
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
-Name=PurpleTech
+Name=EgideDark
 Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
@@ -11,7 +11,7 @@ X-KDE-PluginInfo-Author=jillesmc
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=jillesmc@gmail.com
 X-KDE-PluginInfo-License=GPLv2+
-X-KDE-PluginInfo-Name=PurpleTech
+X-KDE-PluginInfo-Name=EgideDark
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=
 X-Plasma-MainScript=defaults
